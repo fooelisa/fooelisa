@@ -1,4 +1,4 @@
-- 👋
+- 👋 hello!
 - 📫 elisa@bigwaveit.org 
 - 🛠️ https://bigwaveit.org/ 
 - 🏢 https://www.linkedin.com/in/fooelisa/ 
