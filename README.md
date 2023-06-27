@@ -1,7 +1,7 @@
 - 👋 hello
-- 📫 elisa@bigwaveit.org 
-- 🛠️ https://bigwaveit.org/ 
-- 🏢 https://www.linkedin.com/in/fooelisa/ 
+- 📫 [elisa@bigwaveit.org](elisa@bigwaveit.org)
+- 🛠️ [bigwaveit.org](https://bigwaveit.org/)
+- 🏢 [in/fooelisa](https://www.linkedin.com/in/fooelisa/)
 - ⛵ [@symatenka](https://www.instagram.com/symatenka/)
 
 <!--
