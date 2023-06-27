@@ -1,8 +1,8 @@
-- 👋
-- ⛵ @symatenka 
-- 📫 elisa@bigwaveit.org 
-- 🛠️ https://bigwaveit.org/ 
-- 🏢 https://www.linkedin.com/in/fooelisa/ 
+👋
+📫 elisa@bigwaveit.org 
+🛠️ https://bigwaveit.org/ 
+🏢 https://www.linkedin.com/in/fooelisa/ 
+⛵ @symatenka 
 
 <!--
 **fooelisa/fooelisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
