@@ -1,4 +1,3 @@
-- 👋
 - 📫 [elisa@bigwaveit.org](elisa@bigwaveit.org)
 - 🛠️ [bigwaveit.org](https://bigwaveit.org/)
 - 🏢 [in/fooelisa](https://www.linkedin.com/in/fooelisa/)
