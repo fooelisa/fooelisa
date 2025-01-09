@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,aws,bash,bitbucket,cloudflare,docker,gcp,github,githubactions,gitlab,gmail,go,grafana,graphql,heroku,html,jenkins,kubernetes,latex,linux,nginx,perl,php,postgres,prometheus,py,rabbitmq,raspberrypi,redis,sentry,terraform,ubuntu,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=ansible,aws,bash,bitbucket,cloudflare,docker,gcp,github,githubactions,gitlab,gmail,go,grafana,graphql,heroku,html,jenkins,kubernetes,latex,linux,nginx,perl,php,postgres,prometheus,py,rabbitmq,raspberrypi,redis,sentry,vim,vscode" />
   </a>
 </p>
 
