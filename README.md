@@ -2,11 +2,11 @@
 - 🛠️ [https://bigwaveit.org](https://bigwaveit.org/)
 - 🏢 [in/fooelisa](https://www.linkedin.com/in/fooelisa/)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,aws,bash,bitbucket,cloudflare,docker,gcp,github,githubactions,gitlab,gmail,go,grafana,graphql,jenkins,kubernetes,latex,linux,nginx,perl,php,postgres,prometheus,py,rabbitmq,raspberrypi,redis,sentry,vim,vscode" />
   </a>
-</p>
+</p> -->
 
 <!--
 **fooelisa/fooelisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
